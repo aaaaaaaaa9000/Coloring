@@ -1,7 +1,8 @@
 {
-  "name": "Remix  تلوين",
+  "name": "استوديو التلوين",
   "description": "Upload a photo and change the color of your clothes with a single click. Powered by Gemini.",
   "requestFramePermissions": [],
-  "prompt": "",
-  "majorCapabilities": []
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
